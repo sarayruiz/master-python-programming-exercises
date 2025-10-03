@@ -5,4 +5,3 @@ def day_of_week(k):
 
 # Invoke function day_of_week with an integer between 1 and 365
 print(day_of_week())
-fgfdgdfgdfg
